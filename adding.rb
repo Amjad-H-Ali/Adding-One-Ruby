@@ -8,6 +8,8 @@ def add_one array, num = array.length - 1
 	end
 	
 	array[i] = 0
+
+	i -= 1
 end
 
 
