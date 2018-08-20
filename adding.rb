@@ -1,7 +1,9 @@
 p "Adding One!"
 
 def add_one array, num = array.length - 1
-	p  num
+	i = num
+
+	
 end
 
 
