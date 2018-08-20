@@ -6,7 +6,8 @@ def add_one array, num = array.length - 1
 	if array[i] < 9
 		array[i] += 1
 	end
-	array	
+	
+	array[i] = 0
 end
 
 
